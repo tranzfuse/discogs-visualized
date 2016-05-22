@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 768px;
+  margin: 0 auto;
+}
+
+.text-normal {
+  font-weight: normal;
+}
